@@ -23,7 +23,7 @@ I love building creative, responsive, and interactive web applications.
 ## 🌟 Features of This Portfolio
 
 - Fully responsive design (mobile + desktop) 📱💻  
-- Clean and modern UI  
+- Clean and modern UI
 - Projects showcase section  
 - Skills section  
 - About me section  
